@@ -1,0 +1,6 @@
+let ism = prompt('ismingizni kiriting')
+let fam = prompt('familiyangizni kiriting')
+let yosh = prompt('yoshingizni kiriting')
+let fan = prompt('yoqtirgan faningizni yozing')
+let tuman = prompt('yashaydigan tumaningizni kiriting')
+alert('malumotlarni kiritganingiz uchun tashakkur')
